@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import './App.css';
 import Darkmode from "./components/Darkmode/Darkmode";
 
@@ -11,8 +11,8 @@ const Resume = () => {
         <div className="intro">
           <div className="profile">
             <div className="photo">
-              <img src="https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.15752-9/415978542_391262866722199_1313752391239993274_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeE4FCTs5iBSTIggv8lkXxgRmBEDnZhPM7GYEQOdmE8zsYZ5UexBDWi7CdvmViPnofxOtYFaUdkNFqu34gtpjUMK&_nc_ohc=K6rfcsmMm5oAX8wvcKU&_nc_ht=scontent.fsgn2-5.fna&cb_e2o_trans=q&oh=03_AdR58t0PutjSv_O8l9vlhb0U3y_OL-a5KTQ3nwYG2QYKJw&oe=65D9B3FD" />
-            </div>
+            <img src="https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.15752-9/415978542_391262866722199_1313752391239993274_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeE4FCTs5iBSTIggv8lkXxgRmBEDnZhPM7GYEQOdmE8zsYZ5UexBDWi7CdvmViPnofxOtYFaUdkNFqu34gtpjUMK&_nc_ohc=K6rfcsmMm5oAX8wvcKU&_nc_ht=scontent.fsgn2-5.fna&cb_e2o_trans=q&oh=03_AdTWp9N8cPKRDpEsxmIAeoWP7SvMZfe51S2cNYV_ef4pvw&oe=65DC1EBD" alt=''/> 
+              </div>
             <div className="bio">
               <h1 className="name">Võ Hoàng Hữu Trung</h1>
               <p className="profession">Front-end Developer</p>
@@ -40,7 +40,7 @@ const Resume = () => {
             </div>
             <div class="info-section link">
               <i class="fab fa-facebook"></i>
-              <a target="_blank" rel="author" href="https://www.facebook.com/profile.php?id=100023704470620">
+              <a target="1_blank" rel="author" href="https://www.facebook.com/profile.php?id=100023704470620">
                 <span>Facebook : Hoàng Trung</span>
               </a>
             </div>
