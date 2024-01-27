@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cvprj-app-react/static/css/main.38647e00.css",
+    "main.js": "/cvprj-app-react/static/js/main.816d3d89.js",
+    "static/js/787.3f103477.chunk.js": "/cvprj-app-react/static/js/787.3f103477.chunk.js",
+    "index.html": "/cvprj-app-react/index.html",
+    "static/media/moon.svg": "/cvprj-app-react/static/media/moon.dce061275b0676685df8869a5c03da07.svg",
+    "static/media/Sun.svg": "/cvprj-app-react/static/media/Sun.650556954060ece881248c100d876975.svg",
+    "main.38647e00.css.map": "/cvprj-app-react/static/css/main.38647e00.css.map",
+    "main.816d3d89.js.map": "/cvprj-app-react/static/js/main.816d3d89.js.map",
+    "787.3f103477.chunk.js.map": "/cvprj-app-react/static/js/787.3f103477.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38647e00.css",
+    "static/js/main.816d3d89.js"
+  ]
+}
