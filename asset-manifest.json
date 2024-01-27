@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cvprj-app-react/static/css/main.38647e00.css",
-    "main.js": "/cvprj-app-react/static/js/main.1b35c692.js",
-    "static/js/787.3f103477.chunk.js": "/cvprj-app-react/static/js/787.3f103477.chunk.js",
-    "index.html": "/cvprj-app-react/index.html",
-    "main.38647e00.css.map": "/cvprj-app-react/static/css/main.38647e00.css.map",
-    "main.1b35c692.js.map": "/cvprj-app-react/static/js/main.1b35c692.js.map",
-    "787.3f103477.chunk.js.map": "/cvprj-app-react/static/js/787.3f103477.chunk.js.map"
+    "main.css": "/CVproject/static/css/main.38647e00.css",
+    "main.js": "/CVproject/static/js/main.e4ede209.js",
+    "static/js/787.3f103477.chunk.js": "/CVproject/static/js/787.3f103477.chunk.js",
+    "index.html": "/CVproject/index.html",
+    "main.38647e00.css.map": "/CVproject/static/css/main.38647e00.css.map",
+    "main.e4ede209.js.map": "/CVproject/static/js/main.e4ede209.js.map",
+    "787.3f103477.chunk.js.map": "/CVproject/static/js/787.3f103477.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38647e00.css",
-    "static/js/main.1b35c692.js"
+    "static/js/main.e4ede209.js"
   ]
 }
