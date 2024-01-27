@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cvprj-app-react/static/css/main.38647e00.css",
-    "main.js": "/cvprj-app-react/static/js/main.dee13c53.js",
+    "main.js": "/cvprj-app-react/static/js/main.1b35c692.js",
     "static/js/787.3f103477.chunk.js": "/cvprj-app-react/static/js/787.3f103477.chunk.js",
     "index.html": "/cvprj-app-react/index.html",
     "main.38647e00.css.map": "/cvprj-app-react/static/css/main.38647e00.css.map",
-    "main.dee13c53.js.map": "/cvprj-app-react/static/js/main.dee13c53.js.map",
+    "main.1b35c692.js.map": "/cvprj-app-react/static/js/main.1b35c692.js.map",
     "787.3f103477.chunk.js.map": "/cvprj-app-react/static/js/787.3f103477.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38647e00.css",
-    "static/js/main.dee13c53.js"
+    "static/js/main.1b35c692.js"
   ]
 }
